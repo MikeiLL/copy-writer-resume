@@ -33,7 +33,6 @@
               <h2>Welcome and thank you for the consideration.</h2>
               <!-- Main content -->
               <p>Please click below to view PDF files of my resume and writing samples.</p>
-              <p>You may also right-click to download them to your device.</p>
 
               <div class="files"><h3>Rebecca Turner Resume</h3>
                 <ul>
@@ -49,6 +48,8 @@
                     <li><a href="samples/planguides_intro.pdf" target="_blank">Plan Guides</a></li>
                 </ul>
               </div>
+
+               <p class="parenthetical">(You may right-click above files to download them to your device.)</p>
            </section>
 
            <!-- Sidebar -->
