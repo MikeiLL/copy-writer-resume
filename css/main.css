@@ -91,11 +91,6 @@ textarea {
     padding: 0.2em 0;
 }
 
-/* Imports
---------------------------------------------- */
-
-@import url(http://fonts.googleapis.com/css?family=Roboto+Slab);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
 /* ==========================================================================
    Author's custom styles
@@ -103,17 +98,18 @@ textarea {
 
 
 body {
-    font-family: 'Open Sans', Arial, Helvetica;
+    font-family: Helvetica, Arial;
     }
 
 /* Header
 --------------------------------------------- */
 #header {
-    font-family: 'Roboto Slab', Monospace;
-    background-color: hsla(213, 100%, 80%, .5);
+    font-family: Rufina, Helvetica, Arial;
+    background-color: hsla(40, 40%, 66%, 1);
     display: block;
     overflow: auto;
     padding-bottom: .75rem;
+    border-bottom: 1px solid hsla(213, 100%, 10%, .5);
 }
 
 /* Content
@@ -124,6 +120,11 @@ body {
 	padding: 3%;
 	width: 64%;
 	background-color: #fff;
+}
+
+#content h2 {
+    font-family: Rufina, Helvetica, Arial;
+    margin-bottom: 1rem;
 }
 
 .files {
@@ -155,7 +156,7 @@ body {
 --------------------------------------------- */
 
 aside h2 {
-    font-family: 'Roboto Slab', Monospace;
+    font-family: Rufina, Helvetica, Arial;
 }
 
 aside {
@@ -174,8 +175,8 @@ aside {
 footer{
 	width: 94%;
 	padding: 3%;
-	background-color: hsla(213, 100%, 50%, 1);
-	border-top: 5px solid hsla(213, 100%, 10%, .5);
+	background-color: hsla(40, 40%, 66%, 1);
+	border-top: 3px solid hsla(213, 100%, 10%, .5);
 	color: #fff;
 	text-align: center;
 }
