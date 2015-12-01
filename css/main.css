@@ -166,7 +166,7 @@ body {
     margin-top: 2rem;
 }
 
-.files {
+/* .files {
   width: 300px;
   margin: 30px;
   max-width: 80%;
@@ -184,6 +184,7 @@ ul {
   margin: 0;
   padding: 0;
 }
+*/
 
 li {
   border-bottom: 1px solid #ccc;
@@ -203,13 +204,39 @@ li a {
   -ms-transition: font-size 0.3s ease, background-color 0.3s ease;
   transition: font-size 0.3s ease, background-color 0.3s ease;
   display: block;
-  width: 300px;
+  width: 500px;
   max-width: 80%;
 }
 
 li a:hover {
-  font-size: 18px;
+  font-size: 13px;
   background: hsla(40, 40%, 66%, .3);
+}
+
+files {
+  width: 500px;
+  margin: 10px
+}
+
+ol {
+  color: #ccc;
+  list-style-type: none;
+}
+
+ol li {
+  position: relative;
+  font: bold italic 25px/1.5 Helvetica, Verdana, sans-serif;
+  margin-bottom: 20px;
+}
+
+li p {
+  font: 12px/1.5 Helvetica, sans-serif;
+  padding-left: 60px;
+  color: #555;
+}
+
+span {
+  position: absolute;
 }
 
 /* Sidebar

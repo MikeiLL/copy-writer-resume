@@ -42,11 +42,11 @@
 
               <div class="files">
                 <h3>Writing Samples</h3>
-                <ul>
-                    <li><a href="samples/grandi_article.pdf" target="_blank">Grandi</a></li>
-                    <li><a href="samples/homepage_jen.pdf" target="_blank">Jen</a></li>
-                    <li><a href="samples/planguides_intro.pdf" target="_blank">Plan Guides</a></li>
-                </ul>
+                <ol>
+                    <li><span>1.</span><p><a href="samples/grandi_article.pdf" target="_blank">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod ultrices ante, ac laoreet nulla vestibulum adipiscing. Nam quis justo in augue auctor imperdiet. Curabitur aliquet orci sit amet est posuere consectetur. Fusce nec leo ut massa viverra venenatis. Nam accumsan libero a elit aliquet quis ullamcorper arcu tincidunt. Praesent purus turpis, consectetur quis congue vel, pulvinar at lorem. Vivamus varius condimentum dolor, quis ultricies ipsum porta quis. </a></p></li>
+                    <li><span>2.</span><p><a href="samples/homepage_jen.pdf" target="_blank">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></p></li>
+                    <li><span>3.</span><p><a href="samples/planguides_intro.pdf" target="_blank">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></p></li>
+                </ol>
               </div>
 
                <p class="parenthetical">(You may right-click above files to download them to your device.)</p>
