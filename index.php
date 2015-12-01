@@ -35,14 +35,18 @@
               <p>Please click below to view PDF files of my resume and writing samples.</p>
               <p>You may also right-click to download them to your device.</p>
 
-              <div class="files">Rebecca Turner Resume</div>
+              <div class="files"><h3>Rebecca Turner Resume</h3>
+                <ul>
+                    <li><a href="#" target="_blank">PDF Resume</a></li>
+                </ul>
+             </div>
 
               <div class="files">
+                <h3>Writing Samples</h3>
                 <ul>
-                    <li>A writing sample</li>
-                    <li>Another writing sample</li>
-                    <li>A third </li>
-                    <li>And fourth writing sample</li>
+                    <li><a href="samples/grandi_article.pdf" target="_blank">Grandi</a></li>
+                    <li><a href="samples/homepage_jen.pdf" target="_blank">Jen</a></li>
+                    <li><a href="samples/planguides_intro.pdf" target="_blank">Plan Guides</a></li>
                 </ul>
               </div>
            </section>

@@ -112,6 +112,11 @@ body {
     border-bottom: 1px solid hsla(213, 100%, 10%, .5);
 }
 
+#header h2 {
+    line-height: 1.2rem;
+    max-width: 88%;
+}
+
 /* Content
 --------------------------------------------- */
 
@@ -123,8 +128,12 @@ body {
 }
 
 #content h2 {
-    font-family: Rufina, Helvetica, Arial;
+    font-family: Rufina, Helvetica, Arial, Verdana;
     margin-bottom: 1rem;
+}
+
+#content p {
+    margin-bottom: .4rem;
 }
 
 .files {
@@ -150,6 +159,52 @@ body {
     margin-left: 1rem;
     line-height: .5rem;
     margin-top: 2rem;
+}
+
+.files {
+  width: 300px;
+  margin: 30px;
+  max-width: 80%;
+}
+
+.files h3 {
+  font-family: Rufina, Helvetica, Arial, Verdana;
+  margin: 0;
+  padding: 0;
+  margin-bottom: .4rem;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  border-bottom: 1px solid #ccc;
+}
+
+li:last-child {
+  border: none;
+}
+
+li a {
+  text-decoration: none;
+  color: #000;
+
+  -webkit-transition: font-size 0.3s ease, background-color 0.3s ease;
+  -moz-transition: font-size 0.3s ease, background-color 0.3s ease;
+  -o-transition: font-size 0.3s ease, background-color 0.3s ease;
+  -ms-transition: font-size 0.3s ease, background-color 0.3s ease;
+  transition: font-size 0.3s ease, background-color 0.3s ease;
+  display: block;
+  width: 300px;
+  max-width: 80%;
+}
+
+li a:hover {
+  font-size: 18px;
+  background: hsla(40, 40%, 66%, .3);
 }
 
 /* Sidebar
