@@ -166,38 +166,9 @@ body {
     margin-top: 2rem;
 }
 
-/* .files {
-  width: 300px;
-  margin: 30px;
-  max-width: 80%;
-}
-
-.files h3 {
-  font-family: Rufina, Helvetica, Arial, Verdana;
-  margin: 0;
-  padding: 0;
-  margin-bottom: .4rem;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-*/
-
-li {
-  border-bottom: 1px solid #ccc;
-}
-
-li:last-child {
-  border: none;
-}
-
 li a {
   text-decoration: none;
   color: #000;
-
   -webkit-transition: font-size 0.3s ease, background-color 0.3s ease;
   -moz-transition: font-size 0.3s ease, background-color 0.3s ease;
   -o-transition: font-size 0.3s ease, background-color 0.3s ease;
@@ -209,8 +180,16 @@ li a {
 }
 
 li a:hover {
-  font-size: 13px;
+  font-size: 25px;
   background: hsla(40, 40%, 66%, .3);
+}
+
+.resume {
+    padding-left: 46px;
+}
+
+.resume:hover {
+    font-size: 18px;
 }
 
 files {
@@ -230,7 +209,7 @@ ol li {
 }
 
 li p {
-  font: 12px/1.5 Helvetica, sans-serif;
+  font: 24px/1.5 Helvetica, sans-serif;
   padding-left: 60px;
   color: #555;
 }
