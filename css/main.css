@@ -10,6 +10,10 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
+<style>
+@import 'https://fonts.googleapis.com/css?family=Roboto';
+</style>
+
 html {
     color: #222;
     font-size: 1em;
@@ -98,13 +102,13 @@ textarea {
 
 
 body {
-    font-family: Helvetica, Arial;
+    font-family: Roboto, Helvetica, Arial;
     }
 
 /* Header
 --------------------------------------------- */
 #header {
-    font-family: Rufina, Helvetica, Arial;
+    font-family: Rufina, Roboto, Helvetica, Arial;
     background-color: hsla(40, 40%, 66%, 1);
     display: block;
     overflow: auto;
@@ -128,7 +132,7 @@ body {
 }
 
 #content h2 {
-    font-family: Rufina, Helvetica, Arial, Verdana;
+    font-family: Rufina, Roboto, Helvetica, Arial, Verdana;
     margin-bottom: 1rem;
 }
 
@@ -204,12 +208,12 @@ ol {
 
 ol li {
   position: relative;
-  font: bold italic 25px/1.5 Helvetica, Verdana, sans-serif;
+  font: bold italic 25px/1.5 Roboto, Helvetica, Verdana, sans-serif;
   margin-bottom: 20px;
 }
 
 li p {
-  font: 24px/1.5 Helvetica, sans-serif;
+  font: 24px/1.5 Roboto, Helvetica, sans-serif;
   padding-left: 60px;
   color: #555;
 }
@@ -222,7 +226,7 @@ span {
 --------------------------------------------- */
 
 aside h2 {
-    font-family: Rufina, Helvetica, Arial;
+    font-family: Rufina, Roboto, Helvetica, Arial;
 }
 
 aside {
@@ -274,14 +278,24 @@ html, body {height: 100%;}
 
 /*Opera Fix*/
 body:before {/* thanks to Maleika (Kohoutec)*/
-content:"";
-height:100%;
-float:left;
-width:0;
-margin-top:-32767px;/* thank you Erik J - negate effect of float*/
+    content:"";
+    height:100%;
+    float:left;
+    width:0;
+    margin-top:-32767px;/* thank you Erik J - negate effect of float*/
 }
 
+.campaign > div:first-of-type {
+    width: 100%;
+}
 
+.campaign > div:first-of-type img {
+    margin: .8rem auto;
+    display: block;
+    max-width: 300px;
+    height: auto;
+    border: 1px solid #999;
+}
 
 /* IMPORTANT
 
