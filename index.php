@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Rebecca Turner - Editing, Copywriting, Content Strategy & Development</title>
+        <title>Rebecca Turner: Copywriting, Content Development and Strategy</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -17,107 +17,99 @@
     </head>
     <body>
         <!--[if lt IE 8]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+            <p class="browserupgrade">Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
         <div id="container">
 
            <!-- header -->
            <header id="header">
               <h1 id="title">Rebecca Turner</h1>
-              <h2 class="tagline">Editing, Copywriting, Content Strategy & Development</h2>
+              <h2 class="tagline">Senior Copywriter</h2>
            </header>
 
 
            <!-- Main Content area -->
-           <section id="content">
-              <h2>Welcome and thank you for the consideration.</h2>
+           <section id="content"><p><p>
+              <h4>"I'm a lover of words with many years of experience writing clear, concise, and charismatic copy. From bold marketing banners, to ecommerce copy that makes the sale, to the all-important user guidance within an app, I've done it all. I'm unabashedly in favor of quality writing (and correct grammar), yet can still grab the reader's attention with economy and precision."
+<p><p><p><p>
               <!-- Main content -->
-              <p>Please click below to view PDF files of my resume and writing samples.</p>
+<p></P>
+            
 
-              <div class="files"><h3>Rebecca Turner Resume</h3>
-                <ul>
-                    <li><a class="resume" href="samples/Rebecca_Turner_2015_freelancecondense.pdf" target="_blank">PDF Resume</a></li>
-                </ul>
+              <div class="files">
+                <ol>
+                    <p><a href="Rebecca_Turner_2016.docx" target="_blank">My resume</a></P>
+                </ol><br>
              </div>
 
               <div class="files">
-                <h3>Writing Samples</h3>
-
-                <h4>Trends copy, BuyBuy BABY</h4>
-                <p>BuyBuy BABY’s buyers created kids’ outfits based on styles, to encourage customers to buy whole looks. I had fun naming the collections and writing the copy. </p>
+                <p><h2>Portfolio</h2></P><br>
+<h3>Marketing copy</h3><p>
+                <h4>"This is no act..."</h4>
+                <p><h5>When Weight Watchers introduced Jennifer Hudson as a spokesperson, I worked with marketing staff and designers to come up with bold headline copy befitting the star's new look.</h5></p>
                 <ol>
-                    <li><span>1.</span><p><a href="samples/BuyBuyBABY/boho.pdf" target="_blank">Girls</a></p></li>
-                    <li><span>2.</span><p><a href="samples/BuyBuyBABY/casual.pdf" target="_blank">Boys</a></p></li>
-                </ol>
+                    <p><a href="samples/homepage_jen.pdf" target="_blank">Introducing Jennifer Hudson</a></p> </ol><br>
 
-                <h4>Interactive banner, BuyBuy BABY</h4>
-                <p>Our merchandising team asked me to write copy for an interactive banner about swaddles for different ages and stages.</p>
+<h4>buybuy BABY Baby Book rewrite</h4>
+                <p><h5>I was asked to help update the language in this guide that new parents get when they register. The tone had to be more fun and friendly. On this page the headline had previously been "Not your grandma's diapers." I changed it to "Diapers, from top to bottom." </h5></p>
                 <ol>
-                    <li><span>3.</span><p><a href="samples/BuyBuyBABY/swaddle1.pdf" target="_blank">Wearable blankets</a></p></li>
-                    <li><span>4.</span><p><a href="samples/BuyBuyBABY/swaddle2.pdf" target="_blank">Swaddle wraps</a></p></li>
-                </ol>
+                    <p><a href="samples/babybook.png" target="_blank">Baby Book</a></p> </ol><br>
 
-                <h4>General product copy, BedBathandBeyond.com</h4>
-                <p>I write copy across many categories, researching the products and always walking the line between informing the customer and drawing them in with the copy.</p>
+                <h4>buybuy BABY "About Us" rewrite</h4>
+                <p><h5>I was asked to bring this very old "About Us" page in line with updates to our stores and site, using a more friendly brand voice.</h5></p>
                 <ol>
-                    <li><span>5.</span><p><a href="http://www.bedbathandbeyond.com/store/product/softshell-ice-cream-ball-trade/1044925567?Keyword=ice+cream+maker" target="_blank">Ice cream maker</a></p></li>
-                </ol>
-
-                <h4>Ghostwriting, WeightWatchers.com</h4>
-                <p>I interviewed skier Thomas Grandi and wrote article “by” him based on the interview.</p>
+<p><a href="samples/Who We Are.pdf" target="_blank">About Us</a></p></ol><br>
+                <p>
+<h4>Understanding the options</h4>
+                <p><h5>Our merchandising team tasked me with writing an interactive banner to help our customers sort through the different types of swaddles available.</h5></p>
                 <ol>
-                    <li><span>6.</span><p><a href="samples/WeightWatchers/grandi_article.pdf" target="_blank">Thomas Grandi article</a></p></li>
-                </ol>
-
-                <h4>High-profile marketing copy, WeightWatchers.com</h4>
-                <p>When Weight Watchers introduced Jennifer Hudson as our spokesperson, I worked with out designers to come up with a splashy headline befitting this glamorous star and her new look.</p>
+                    <p><a href="samples/swaddle2.gif" target="_blank">Swaddle intro</a></p>
+<p><a href="samples/swaddle1.gif" target="_blank">Wearable blankets</a></p>
+ </ol>
+<br>
+<h3>Longform copy</h3><p>
+ <h4>Introducing Weight Watchers</h4>
+                <p><h5>One of my most rewarding tasks at Weight Watchers was introducing members to the Weight Watchers plan. This was a highly collaborative process in which I worked with our design, program, science, and legal teams.</h5></p>
                 <ol>
-                    <li><span>7.</span><p><a href="samples/WeightWatchers/homepage_jen.pdf" target="_blank">Introducing Jennifer Hudson</a></p></li>
-                </ol>
+                    <p><a href="samples/planguides_intro.pdf" target="_blank">Weight Watchers plan guide</a></p>
+                </ol><br>
 
-                <h4>Blog copy, WeightWatchers.com</h4>
-                <p>Along with other content team members, I blogged on food, eating, activity, and more. It was interesting exploring these topics in a more informal way.</p>
+                <h4>Blogging on all things Weight Watchers</h4>
+                <p><h5>I had so much fun musing on food, eating, activity, and more for the WeightWatchers.com editor's blog!</h5></p>
                 <ol>
-                    <li><span>8.</span><p><a href="http://community.weightwatchers.com/Blogs/SearchBlogs.aspx?s=rebecca+turner&t=16&sh=0&" target="_blank">Weight Watchers Blogging</a></p></li>
-                </ol>
-
-                <h4>Plan copy, WeightWatchers.com</h4>
-                <p>One of the most rewarding things I did at WeightWatchers was work on the guides that taught members how to follow the plan. A lot of thought, planning, and discussing across many teams went into creating these guides. Here is an intro page with my copy.</p>
+                    <p><a href="http://community.weightwatchers.com/Blogs/SearchBlogs.aspx?s=rebecca+turner&t=16&sh=0&" target="_blank">Weight Watchers blogs</a></p>
+                </ol><br>
+<h3>Ecommerce copy</h3><p>
+<h4>Get the look</h4>
+                <p><h5>BuyBuyBaby.com apparel buyers created kids' clothes collections based on styles and looks. I named the collections and wrote the copy for these fun and successful collections.</h5></p>
                 <ol>
-                    <li><span>9.</span><p><a href="samples/WeightWatchers/planguides_intro.pdf" target="_blank">Weight Watchers Plan Copy</a></p></li>
-                </ol>
+                    <p><a href="samples/boho.jpg" target="_blank">Girls' trends</a></p></li>
+                    <p><a href="samples/casual.jpg" target="_blank">Boys' trends</a></p>
+                </ol><br>
+
+               
 
 
 
-                <h2>Not Using?</h2>
-                <ol>
-                    <li><span>1.</span><p><a href="samples/WeightWatchers/grandi_article.pdf" target="_blank">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent euismod ultrices ante, ac laoreet nulla vestibulum adipiscing. Nam quis justo in augue auctor imperdiet. Curabitur aliquet orci sit amet est posuere consectetur. Fusce nec leo ut massa viverra venenatis. Nam accumsan libero a elit aliquet quis ullamcorper arcu tincidunt. Praesent purus turpis, consectetur quis congue vel, pulvinar at lorem. Vivamus varius condimentum dolor, quis ultricies ipsum porta quis. </a></p></li>
-                    <li><span>2.</span><p><a href="samples/WeightWatchers/homepage_jen.pdf" target="_blank">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></p></li>
-                    <li><span>3.</span><p><a href="samples/WeightWatchers/planguides_intro.pdf" target="_blank">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></p></li>
-                    <li><span>4.</span><p><a href="samples/WeightWatchers/gettoknow_ppvs.pdf" target="_blank">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></p></li>
-                    <li><span>7.</span><p><a href="samples/BuyBuyBABY/focus_fashion.pdf" target="_blank">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></p></li>
-                    <li><span>8.</span><p><a href="samples/BuyBuyBABY/preppy.pdf" target="_blank">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></p></li>
-                    <li><span>9.</span><p><a href="samples/BuyBuyBABY/puppies.pdf" target="_blank">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></p></li>
-                    <li><span>10.</span><p><a href="samples/BuyBuyBABY/sporty.pdf" target="_blank">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></p></li>
-                    <li><span>11.</span><p><a href="samples/BuyBuyBABY/subject_bird.pdf" target="_blank">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></p></li>
+                
 
 
               </div>
 
-               <p class="parenthetical">(You may right-click above files to download them to your device.)</p>
+              
            </section>
 
            <!-- Sidebar -->
            <aside id="sidebar">
               <!-- Sidebar content -->
               <h2>Contact Information</h2>
-              Email: <a href="mailto:rebeccamo34@gmail.com">rebeccamo34@gmail.com</a>
+              Email: rebeccamo34@gmail.com
               <a href="https://www.linkedin.com/in/rebecca-turner-8200685" target="_blank"><img src="img/Logo-2C-28px-TM.png"/></a>
            </aside>
 
            <!-- Footer -->
            <footer id="footer" class="clearfix">
-              Copyright &copy Rebecca Turner 2015
+              Copyright &copy Rebecca Turner 2016
            </footer>
 
         </div>
