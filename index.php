@@ -46,41 +46,53 @@
          </div>
 
           <div class="files">
-            <p><h2>Portfolio</h2></P><br>
-            <h3>Marketing copy</h3><p>
-            <h4>"This is no act..."</h4>
+            <h2>Portfolio</h2>
+            <h3>Marketing copy</h3>
+
             <div class="campaign">
+            <h4>&ldquo;This is no act&hellip;&rdquo;</h4>
                 <div>
                     <a href="samples/homepage_jen.pdf" title="View as PDF" target="_blank"><img src="img/thumbnails/homepage_jen.jpg" /></a>
                 </div>
                 <div>
-                    <p>When Weight Watchers introduced Jennifer Hudson as a spokesperson, I worked with marketing staff and designers to come up with bold headline copy befitting the star's new look.</p>
-                    <ol><p><a href="samples/homepage_jen.pdf" title="View as PDF" target="_blank">Introducing Jennifer Hudson</a></p> </ol>
+                    <p>When Weight Watchers introduced Jennifer Hudson as a spokesperson, I worked with marketing staff and designers to come up with bold headline copy befitting the star's new look.
+                    <a class="btn" href="samples/homepage_jen.pdf" title="View as PDF" target="_blank">View PDF</a></p>
                 </div>
             </div>
             <div class="campaign">
+                <h4>buybuy BABY Baby Book rewrite</h4>
                 <div>
-                    <a href="samples/babybook.png" title="View as PDF" target="_blank"><img src="img/thumbnails/babybook.png" /></a>
+                    <a href="samples/babybook.pdf" title="View as PDF" target="_blank"><img src="img/thumbnails/babybook.png" /></a>
                 </div>
                 <div>
-                <h4>buybuy BABY Baby Book rewrite</h4>
-                    <p>I was asked to help update the language in this guide that new parents get when they register. The tone had to be more fun and friendly. On this page the headline had previously been "Not your grandma's diapers." I changed it to "Diapers, from top to bottom." </p>
-                    <ol><a href="samples/babybook.png" title="View as PDF" target="_blank">Baby Book</a></ol>
+
+                    <p>I was asked to help update the language in this guide that new parents get when they register. The tone had to be more fun and friendly. On this page the headline had previously been &ldquo;Not your grandma's diapers.&rdqou; I changed it to &ldquo;Diapers, from top to bottom.&rdquo; <a href="samples/babybook.pdf" title="View as PDF" target="_blank">Baby Book</a></p>
                 </div>
             </div>
 
+            <div class="campaign">
             <h4>buybuy BABY "About Us" rewrite</h4>
-            <p>I was asked to bring this very old "About Us" page in line with updates to our stores and site, using a more friendly brand voice.</p>
-            <ol>
-<p><a href="samples/Who We Are.pdf" target="_blank">About Us</a></p></ol><br>
-            <p>
-<h4>Understanding the options</h4>
-            <p>Our merchandising team tasked me with writing an interactive banner to help our customers sort through the different types of swaddles available.</p>
-            <ol>
-                <p><a href="samples/swaddle2.gif" target="_blank">Swaddle intro</a></p>
-<p><a href="samples/swaddle1.gif" target="_blank">Wearable blankets</a></p>
-</ol>
-<br>
+                <div>
+                    <a href="samples/Who We Are.pdf" title="View as PDF" target="_blank"><img src="img/thumbnails/WhoWeAre.jpg" /></a>
+                </div>
+                <div>
+                    <p>I was asked to bring this very old &ldquo;About Us&rdquo; page in line with updates to our stores and site, using a more friendly brand voice.
+                    <a class="btn" href="samples/babybook.pdf" title="View as PDF" target="_blank">View PDF</a></p>
+                </div>
+            </div>
+
+            <div class="campaign">
+            <h4>Understanding the options</h4>
+                <div>
+                    <a href="samples/swaddle2.gif" title="View as PDF" target="_blank"><img src="img/thumbnails/swaddle2.gif" /></a>
+                </div>
+                <div>
+                    <p>Our merchandising team tasked me with writing an interactive banner to help our customers sort through the different types of swaddles available.
+                    <a class="btn" href="samples/swaddle2.gif" title="Swaddle intro" target="_blank">Swaddle intro</a></p>
+                    <p><a class="btn" href="samples/swaddle1.gif" title="Wearable blankets" target="_blank">Wearable blankets</a></p>
+                </div>
+            </div>
+
 <h3>Longform copy</h3><p>
 <h4>Introducing Weight Watchers</h4>
 
