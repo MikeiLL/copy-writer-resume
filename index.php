@@ -34,18 +34,12 @@
 
 
        <!-- Main Content area -->
-       <section id="content"><p><p>
-          &ldquo;I'm a lover of words with many years of experience writing clear, concise, and charismatic copy. From bold marketing banners, to ecommerce copy that makes the sale, to the all-important user guidance within an app, I've done it all. I'm unabashedly in favor of quality writing (and correct grammar), yet can still grab the reader's attention with economy and precision.&rdquo;
-          <!-- Main content -->
+       <section id="content">
+        <div class="campaign">
+          <p>&ldquo;I'm a lover of words with many years of experience writing clear, concise, and charismatic copy. From bold marketing banners, to ecommerce copy that makes the sale, to the all-important user guidance within an app, I've done it all. I'm unabashedly in favor of quality writing (and correct grammar), yet can still grab the reader's attention with economy and precision.&rdquo;
+            <a class="btn" href="Rebecca_Turner_2016.docx" title="PDF File" target="_blank">View resume</a></p>
+        </div>
 
-
-          <div class="files">
-            <ol>
-                <p><a href="Rebecca_Turner_2016.docx" target="_blank">My resume</a></P>
-            </ol><br>
-         </div>
-
-          <div class="files">
             <h2>Portfolio</h2>
             <h3>Marketing copy</h3>
 
@@ -66,7 +60,7 @@
                 </div>
                 <div>
 
-                    <p>I was asked to help update the language in this guide that new parents get when they register. The tone had to be more fun and friendly. On this page the headline had previously been &ldquo;Not your grandma's diapers.&rdqou; I changed it to &ldquo;Diapers, from top to bottom.&rdquo; <a href="samples/babybook.pdf" title="View as PDF" target="_blank">Baby Book</a></p>
+                    <p>I was asked to help update the language in this guide that new parents get when they register. The tone had to be more fun and friendly. On this page the headline had previously been &ldquo;Not your grandma's diapers.&rdquo; I changed it to &ldquo;Diapers, from top to bottom.&rdquo; <a class="btn" href="samples/babybook.pdf" title="View as PDF" target="_blank">View PDF</a></p>
                 </div>
             </div>
 
@@ -84,37 +78,52 @@
             <div class="campaign">
             <h4>Understanding the options</h4>
                 <div>
-                    <a href="samples/swaddle2.gif" title="View as PDF" target="_blank"><img src="img/thumbnails/swaddle2.gif" /></a>
+                    <a href="samples/swaddle2.gif" title="View Full Size" target="_blank"><img src="img/thumbnails/swaddle2.gif" /></a>
                 </div>
                 <div>
                     <p>Our merchandising team tasked me with writing an interactive banner to help our customers sort through the different types of swaddles available.
-                    <a class="btn" href="samples/swaddle2.gif" title="Swaddle intro" target="_blank">Swaddle intro</a></p>
-                    <p><a class="btn" href="samples/swaddle1.gif" title="Wearable blankets" target="_blank">Wearable blankets</a></p>
+                    <a class="btn" href="samples/swaddle2.gif" title="View Full Size" target="_blank">Swaddle intro</a></p>
+                    <p><a class="btn" href="samples/swaddle1.gif" title="View Full Size" target="_blank">Wearable blankets</a></p>
                 </div>
             </div>
 
 <h3>Longform copy</h3><p>
-<h4>Introducing Weight Watchers</h4>
 
-            <p>One of my most rewarding tasks at Weight Watchers was introducing members to the Weight Watchers plan. This was a highly collaborative process in which I worked with our design, program, science, and legal teams.</p>
-            <ol>
-                <p><a href="samples/planguides_intro.pdf" target="_blank">Weight Watchers plan guide</a></p>
-            </ol><br>
+            <div class="campaign">
+            <h4>Introducing Weight Watchers</h4>
+                <div>
+                    <a href="samples/planguides_intro.pdf" title="View as PDF" target="_blank"><img src="img/thumbnails/planguides_intro.jpg" /></a>
+                </div>
+                <div>
+                    <p>One of my most rewarding tasks at Weight Watchers was introducing members to the Weight Watchers plan. This was a highly collaborative process in which I worked with our design, program, science, and legal teams.</p>
+                    <a class="btn" href="samples/planguides_intro.pdf" title="View as PDF" target="_blank">Weight Watchers plan guide</a></p>
+                </div>
+            </div>
 
-            <h4>Blogging on all things Weight Watchers</h4>
-            <p>I had so much fun musing on food, eating, activity, and more for the WeightWatchers.com editor's blog!</p>
-            <ol>
-                <p><a href="http://community.weightwatchers.com/Blogs/SearchBlogs.aspx?s=rebecca+turner&t=16&sh=0&" target="_blank">Weight Watchers blogs</a></p>
-            </ol><br>
-<h3>Ecommerce copy</h3><p>
-<h4>Get the look</h4>
-            <p>BuyBuyBaby.com apparel buyers created kids' clothes collections based on styles and looks. I named the collections and wrote the copy for these fun and successful collections.</p>
-            <ol>
-                <p><a href="samples/boho.jpg" target="_blank">Girls' trends</a></p></li>
-                <p><a href="samples/casual.jpg" target="_blank">Boys' trends</a></p>
-            </ol><br>
-</div>
+            <div class="campaign">
+             <h4>Blogging on all things Weight Watchers</h4>
+                <div>
+                    <a href="http://community.weightwatchers.com/Blogs/SearchBlogs.aspx?s=rebecca+turner&t=16&sh=0&" title="Visit Site" target="_blank"><img src="img/thumbnails/WeightWatchersSite.png" /></a>
+                </div>
+                <div>
+                     <p>I had so much fun musing on food, eating, activity, and more for the WeightWatchers.com editor's blog!</p>
+                    <a class="btn" href="http://community.weightwatchers.com/Blogs/SearchBlogs.aspx?s=rebecca+turner&t=16&sh=0&" title="View Website" target="_blank">Weight Watchers blogs</a></p>
+                </div>
+            </div>
 
+<h3>Ecommerce copy</h3>
+
+<div class="campaign">
+             <h4>Get the look</h4>
+                <div>
+                    <img src="img/thumbnails/boho.jpg" />
+                </div>
+                <div>
+                      <p>BuyBuyBaby.com apparel buyers created kids' clothes collections based on styles and looks. I named the collections and wrote the copy for these fun and successful collections.</p>
+                <a class="btn" href="samples/boho.jpg" title="Full Size JPG" target="_blank">Girls' trends</a>
+                <a class="btn" href="samples/casual.jpg" title="Full Size JPG" target="_blank">Boys' trends</a>
+                </div>
+            </div>
 
        </section>
 
@@ -122,7 +131,7 @@
        <aside id="sidebar">
           <!-- Sidebar content -->
           <h2>Contact Information</h2>
-          Email: rebeccamo34@gmail.com
+          <p class="fullwidth email">Email: rebeccamo34@gmail.com</p>
           <a href="https://www.linkedin.com/in/rebecca-turner-8200685" target="_blank"><img src="img/Logo-2C-28px-TM.png"/></a>
        </aside>
 

@@ -10,11 +10,11 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
-@import 'https://fonts.googleapis.com/css?family=Roboto';
+@import 'https://fonts.googleapis.com/css?family=Lato';
 
 html {
     color: #222;
-    font-size: 1em;
+    font-size: 16px;
     line-height: 1.4;
 }
 
@@ -100,14 +100,14 @@ textarea {
 
 
 body {
-    font-family: Roboto, Helvetica, Arial;
+    font-family: Lato, Helvetica, Arial;
     }
 
 /* Header
 --------------------------------------------- */
 #header {
-    font-family: Roboto, Helvetica, Arial;
-    background-color: hsla(40, 40%, 66%, 1);
+    font-family: Lato, Helvetica, Arial;
+    background-color: hsla(27, 91%, 77%, 1);
     display: block;
     overflow: auto;
     padding-bottom: .75rem;
@@ -117,6 +117,13 @@ body {
 #header h2 {
     line-height: 1.2rem;
     max-width: 88%;
+    size: 1.4rem;
+}
+
+/* Typography
+--------------------------------------------- */
+p {
+    font-size: 15px;
 }
 
 /* Content
@@ -130,9 +137,9 @@ body {
 }
 
 #content h2 {
-    font-family: Roboto, Helvetica, Arial, Verdana;
+    font-family: Lato, Helvetica, Arial, Verdana;
     margin-bottom: 1rem;
-    color: #999;
+    color: #ccc;
 }
 
 #content p {
@@ -146,7 +153,6 @@ body {
 
 .files {
     margin-left: 1rem;
-    border-bottom: 1px dotted #ccc;
     margin-top: 1rem;
     width: 90%;
 }
@@ -157,7 +163,7 @@ body {
 
 .tagline {
     margin-left: 1rem;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     font-weight: 400;
     margin-top: .75rem;
     line-height: 1rem;
@@ -167,6 +173,7 @@ body {
     margin-left: 1rem;
     line-height: .5rem;
     margin-top: 2rem;
+    font-size: 1.8rem;
 }
 
 li a {
@@ -207,12 +214,12 @@ ol {
 
 ol li {
   position: relative;
-  font: bold italic 25px/1.5 Roboto, Helvetica, Verdana, sans-serif;
+  font: bold italic 25px/1.5 Lato, Helvetica, Verdana, sans-serif;
   margin-bottom: 20px;
 }
 
 li p {
-  font: 24px/1.5 Roboto, Helvetica, sans-serif;
+  font: 24px/1.5 Lato, Helvetica, sans-serif;
   padding-left: 60px;
   color: #555;
 }
@@ -225,7 +232,7 @@ span {
 --------------------------------------------- */
 
 aside h2 {
-    font-family: Roboto, Helvetica, Arial;
+    font-family: Lato, Helvetica, Arial;
 }
 
 aside {
@@ -236,7 +243,18 @@ aside {
 	min-height: 100%;
 }
 
+aside img {
+    margin-left: 2px;
+}
 
+.fullwidth {
+    width: 100%;
+}
+
+.email {
+    font-size: 1rem;
+    margin-bottom: .5rem;
+}
 
 /* Footer
 --------------------------------------------- */
@@ -244,7 +262,7 @@ aside {
 footer{
 	width: 94%;
 	padding: 3%;
-	background-color: hsla(40, 40%, 66%, 1);
+	background-color: hsla(27, 91%, 77%, 1);
 	border-top: 3px solid hsla(213, 100%, 10%, .5);
 	color: #fff;
 	text-align: center;
@@ -293,7 +311,7 @@ body:before {/* thanks to Maleika (Kohoutec)*/
     display: block;
     max-width: 300px;
     height: auto;
-    border: 1px solid #999;
+    border: 1px solid #ccc;
 }
 
 .btn {
@@ -327,13 +345,18 @@ body:before {/* thanks to Maleika (Kohoutec)*/
 }
 
 .campaign {
-    border-bottom: 1px solid #999;
+    border-bottom: 1px solid #ccc;
     margin-top: 1rem;
-
+    padding-bottom: 1rem;
     overflow: auto;
 }
 
 .campaign:last-of-type {
+    margin-bottom: 1rem;
+}
+
+.campaign:first-of-type {
+    border: none;
 }
 
 .campaign:after {
@@ -344,10 +367,10 @@ h3 {
     text-transform: uppercase;
     text-align: right;
     width: 100%;
-    margin: .3rem 0;
+    margin: 1rem 0;
     text-decoration: underline;
-    -moz-text-decoration-color: #999; /* Code for Firefox */
-    text-decoration-color: #999;
+    -moz-text-decoration-color: #ccc; /* Code for Firefox */
+    text-decoration-color: #ccc;
 }
 
 /* IMPORTANT
@@ -367,15 +390,37 @@ You also need to include this conditional style in the <head> of your HTML file 
 /* Media Queries
 --------------------------------------------- */
 
-@media all and (max-width : 768px) {
+@media all and (min-width : 760px) {
 
 	header {
-		text-align: center;
+	    padding: 0 1rem;
 	}
 
 	nav {
 		text-align: center;
 	}
+
+	p {
+        font-size: 1.2rem;
+    }
+
+    .campaign > div:first-of-type {
+        width: 420px;
+        float: left;
+    }
+
+    #title {
+        font-size: 2.3rem;
+    }
+
+    .tagline {
+        font-size: 1.6rem;
+    }
+
+}
+
+
+@media all and (max-width : 960px) {
 
 	#content {
 		width: 94%;
@@ -390,13 +435,78 @@ You also need to include this conditional style in the <head> of your HTML file 
 
 }
 
+@media all and (min-width : 960px) {
 
-@media all and (min-width : 420px) {
-    .campaign > div:first-of-type {
-        width: 420px;
-        float: left;
+    header {
+	    padding: 0 1rem;
+	}
+
+    p {
+        font-size: 1.2rem;
+    }
+
+    .btn {
+        font-size: .8rem;
+        padding: .3rem;
+    }
+
+    #title, .tagline {
+        margin-left: 0;
+    }
+
+    #title {
+        font-size: 2.6rem;
+    }
+
+    .tagline {
+        font-size: 1.8rem;
     }
 }
+
+@media all and (min-width : 1800px) {
+
+    header {
+	    padding: 0 1rem;
+	}
+
+    p {
+        font-size: 1.6rem;
+    }
+
+    .btn {
+        font-size: 1rem;
+        padding: .3rem;
+    }
+
+    h2 {
+        font-size: 2.4rem;
+    }
+
+    h3 {
+        font-size: 2.2rem;
+    }
+
+    h4 {
+        font-size: 2rem;
+    }
+
+    #title, .tagline {
+        margin-left: 0;
+    }
+
+    #title {
+        font-size: 2.8rem;
+    }
+
+    .tagline {
+        font-size: 2rem;
+    }
+
+    .email {
+        font-size: 1.2rem;
+    }
+}
+
 
 
 /* ==========================================================================
@@ -534,7 +644,7 @@ You also need to include this conditional style in the <head> of your HTML file 
 
     pre,
     blockquote {
-        border: 1px solid #999;
+        border: 1px solid #ccc;
         page-break-inside: avoid;
     }
 
