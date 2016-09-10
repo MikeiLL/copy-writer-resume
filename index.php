@@ -36,7 +36,7 @@
        <!-- Main Content area -->
        <section id="content">
         <div class="campaign">
-          <p>&ldquo;I'm a lover of words with many years of experience writing clear, concise, and charismatic copy. From bold marketing banners, to ecommerce copy that makes the sale, to the all-important user guidance within an app, I've done it all. I'm unabashedly in favor of quality writing (and correct grammar), yet can still grab the reader's attention with economy and precision.&rdquo;
+          <p class="leadin">&ldquo;I'm a lover of words with many years of experience writing clear, concise, and charismatic copy. From bold marketing banners, to ecommerce copy that makes the sale, to the all-important user guidance within an app, I've done it all. I'm unabashedly in favor of quality writing (and correct grammar), yet can still grab the reader's attention with economy and precision.&rdquo;
             <a class="btn" href="Rebecca_Turner_2016.docx" title="PDF File" target="_blank">View resume</a></p>
         </div>
 
@@ -81,9 +81,9 @@
                     <a href="samples/swaddle2.gif" title="View Full Size" target="_blank"><img src="img/thumbnails/swaddle2.gif" /></a>
                 </div>
                 <div>
-                    <p>Our merchandising team tasked me with writing an interactive banner to help our customers sort through the different types of swaddles available.
-                    <a class="btn" href="samples/swaddle2.gif" title="View Full Size" target="_blank">Swaddle intro</a></p>
-                    <p><a class="btn" href="samples/swaddle1.gif" title="View Full Size" target="_blank">Wearable blankets</a></p>
+                    <p>Our merchandising team tasked me with writing an interactive banner to help our customers sort through the different types of swaddles available.</p>
+                    <a class="btn" href="samples/swaddle2.gif" title="View Full Size" target="_blank">Swaddle intro</a>
+                    <a class="btn" href="samples/swaddle1.gif" title="View Full Size" target="_blank">Wearable blankets</a>
                 </div>
             </div>
 

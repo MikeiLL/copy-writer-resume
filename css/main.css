@@ -123,7 +123,11 @@ body {
 /* Typography
 --------------------------------------------- */
 p {
-    font-size: 15px;
+    font-size: .9rem;
+}
+
+.leadin {
+    font-size: 1.1rem;
 }
 
 /* Content
@@ -404,6 +408,10 @@ You also need to include this conditional style in the <head> of your HTML file 
         font-size: 1.2rem;
     }
 
+    .leadin {
+        font-size: 1.4rem;
+    }
+
     .campaign > div:first-of-type {
         width: 420px;
         float: left;
@@ -445,6 +453,10 @@ You also need to include this conditional style in the <head> of your HTML file 
         font-size: 1.2rem;
     }
 
+    .leadin {
+        font-size: 1.4rem;
+    }
+
     .btn {
         font-size: .8rem;
         padding: .3rem;
@@ -471,6 +483,10 @@ You also need to include this conditional style in the <head> of your HTML file 
 
     p {
         font-size: 1.6rem;
+    }
+
+    .leadin {
+        font-size: 1.9rem;
     }
 
     .btn {
