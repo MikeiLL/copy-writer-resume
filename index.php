@@ -25,7 +25,7 @@
         </style>
     <![endif]-->
     <div id="container">
-
+HELLO
        <!-- header -->
        <header id="header">
           <h1 id="title">Rebecca Turner</h1>
@@ -36,8 +36,8 @@
        <!-- Main Content area -->
        <section id="content">
         <div class="campaign">
-          <p class="leadin">&ldquo;I'm a lover of words with many years of experience writing clear, concise, and charismatic copy. From bold marketing banners, to ecommerce copy that makes the sale, to the all-important user guidance within an app, I've done it all. I'm unabashedly in favor of quality writing (and correct grammar), yet can still grab the reader's attention with economy and precision.&rdquo;
-            <a class="btn" href="Rebecca_Turner_2016.docx" title="PDF File" target="_blank">View resume</a></p>
+          <p class="leadin">From bold marketing banners, to e-commerce copy that makes the sale, to key user guidance in an app, I've successfully done it all, and can grab the reader's attention with economy and precision.
+            <a class="btn" href="res_rebeccaturner.pdf" title="PDF File" target="_blank">View resume</a></p>
         </div>
 
             <h2>Portfolio</h2>
@@ -49,41 +49,41 @@
                     <a href="samples/homepage_jen.pdf" title="View as PDF" target="_blank"><img src="img/thumbnails/homepage_jen.jpg" /></a>
                 </div>
                 <div>
-                    <p>When Weight Watchers introduced Jennifer Hudson as a spokesperson, I worked with marketing staff and designers to come up with bold headline copy befitting the star's new look.
+                    <p>When Weight Watchers introduced Jennifer Hudson as a spokesperson, I worked with the marketing and creative teams to come up with bold headline copy befitting the star's new look.
                     <a class="btn" href="samples/homepage_jen.pdf" title="View as PDF" target="_blank">View PDF</a></p>
                 </div>
             </div>
             <div class="campaign">
-                <h4>buybuy BABY Baby Book rewrite</h4>
+                <h4>Fun yet trustworthy</h4>
                 <div>
                     <a href="samples/babybook.pdf" title="View as PDF" target="_blank"><img src="img/thumbnails/babybook.png" /></a>
                 </div>
                 <div>
 
-                    <p>I was asked to help update the language in this guide that new parents get when they register. The tone had to be more fun and friendly. On this page the headline had previously been &ldquo;Not your grandma's diapers.&rdquo; I changed it to &ldquo;Diapers, from top to bottom.&rdquo; <a class="btn" href="samples/babybook.pdf" title="View as PDF" target="_blank">View PDF</a></p>
+                    <p>I was asked to help update the language in this 58-page annual guide. I had to walk a fine line to make it more fun and friendly, yet still inspire trust.<a class="btn" href="samples/babybook.pdf" title="View as PDF" target="_blank">View PDF</a></p>
                 </div>
             </div>
 
             <div class="campaign">
-            <h4>buybuy BABY "About Us" rewrite</h4>
+            <h4>Updating brand voice</h4>
                 <div>
-                    <a href="samples/Who We Are.pdf" title="View as PDF" target="_blank"><img src="img/thumbnails/WhoWeAre.jpg" /></a>
+                    <a href="samples/new_aboutus.jpg" title="View Full Size" target="_blank"><img src="img/thumbnails/new_aboutus_th.jpg" /></a>
                 </div>
                 <div>
-                    <p>I was asked to bring this very old &ldquo;About Us&rdquo; page in line with updates to our stores and site, using a more friendly brand voice.
-                    <a class="btn" href="samples/babybook.pdf" title="View as PDF" target="_blank">View PDF</a></p>
+                    <p>The task was to bring this very old &ldquo;About Us&rdquo; page in line with updates to our stores and site, using a more friendly brand voice.
+                    <a class="btn" href="samples/new_aboutus.jpg" title="View Full Size" target="_blank">View PDF</a></p>
                 </div>
             </div>
 
             <div class="campaign">
             <h4>Understanding the options</h4>
                 <div>
-                    <a href="samples/swaddle2.gif" title="View Full Size" target="_blank"><img src="img/thumbnails/swaddle2.gif" /></a>
+                    <a href="samples/new_swaddle2.jpg" title="View Full Size" target="_blank"><img src="img/thumbnails/new_swaddle2_th.jpg" /></a>
                 </div>
                 <div>
-                    <p>Our merchandising team tasked me with writing an interactive banner to help our customers sort through the different types of swaddles available.</p>
-                    <a class="btn" href="samples/swaddle2.gif" title="View Full Size" target="_blank">Swaddle intro</a>
-                    <a class="btn" href="samples/swaddle1.gif" title="View Full Size" target="_blank">Wearable blankets</a>
+                    <p>Our merchandising team asked me to write an interactive banner to educate our customers on all things swaddle.</p>
+                    <a class="btn" href="samples/new_swaddle2.jpg" title="View Full Size" target="_blank">Swaddle intro</a>
+                    <a class="btn" href="samples/new_swaddle1.jpg" title="View Full Size" target="_blank">Wearable blankets</a>
                 </div>
             </div>
 
@@ -95,23 +95,14 @@
                     <a href="samples/planguides_intro.pdf" title="View as PDF" target="_blank"><img src="img/thumbnails/planguides_intro.jpg" /></a>
                 </div>
                 <div>
-                    <p>One of my most rewarding tasks at Weight Watchers was introducing members to the Weight Watchers plan. This was a highly collaborative process in which I worked with our design, program, science, and legal teams.</p>
+                    <p>One of my most rewarding tasks at Weight Watchers was introducing members to the Weight Watchers plan. This was a collaborative process in which I worked with our design, program, science, and legal teams.</p>
                     <a class="btn" href="samples/planguides_intro.pdf" title="View as PDF" target="_blank">Weight Watchers plan guide</a></p>
                 </div>
             </div>
 
-            <div class="campaign">
-             <h4>Blogging on all things Weight Watchers</h4>
-                <div>
-                    <a href="http://community.weightwatchers.com/Blogs/SearchBlogs.aspx?s=rebecca+turner&t=16&sh=0&" title="Visit Site" target="_blank"><img src="img/thumbnails/WeightWatchersSite.png" /></a>
-                </div>
-                <div>
-                     <p>I had so much fun musing on food, eating, activity, and more for the WeightWatchers.com editor's blog!</p>
-                    <a class="btn" href="http://community.weightwatchers.com/Blogs/SearchBlogs.aspx?s=rebecca+turner&t=16&sh=0&" title="View Website" target="_blank">Weight Watchers blogs</a></p>
-                </div>
-            </div>
 
-<h3>Ecommerce copy</h3>
+
+<h3>E-commerce copy</h3>
 
 <div class="campaign">
              <h4>Get the look</h4>
